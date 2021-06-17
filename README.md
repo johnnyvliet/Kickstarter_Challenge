@@ -2,7 +2,7 @@
 ## **Overview of Project**
 The purpose of this project is to help Louise see how the success of certain campaigns outcomes vary by time of year and the goal amounts. There are tables, sumized data and visualizations to help show our findings. You can view the spreadsheet and understand the codes we used by clicking this link [Kickstarter_Challenge]("C:\Users\jvanv\OneDrive\Desktop\Classwork Folder\Crowdfunding Analysis\Kickstarter-Challenge.xlsx")---
 
-## **Analysis and Challenges*
+## **Analysis and Challenges**
 - To determine how time of year affects theatre campaign outcomes, we created a pivot table filtering for Theatre campaigns and years. Placing outcomes in columns and months of the year as the rows, we were able to count the amount of successful, failed and canceled campaigns for each month in a given year. The chart linked below shows that theatre campaings in May and June are the most successful ![Theatre_Outcomes_vs_Launch]("C:\Users\jvanv\OneDrive\Desktop\Classwork Folder\Crowdfunding Analysis\Challenge Pictures\Theatre_Outcomes_vs_Launch.png").---
 
 - To find the number of successful,failed, and canceled Play outcomes based on goal amounts, we derived an equation that could count the outcomes of each play campaign by goal amount thresholds. To summarize the data, we took the averages of the outcomes at each goal amount. Using these data points, we created a line graph to visually show how the goal amounts influences the percentage of outcomes ![Outcomes_vs_Goals]("C:\Users\jvanv\OneDrive\Desktop\Classwork Folder\Crowdfunding Analysis\Challenge Pictures\Outcomes_vs_Goals.png")---
